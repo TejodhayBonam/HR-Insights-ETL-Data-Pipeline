@@ -112,5 +112,4 @@ This project demonstrates the end-to-end ETL process for human resources data, f
 
 For any questions or inquiries related to this project, please feel free to contact me :)
 
-- linkedin : <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
-- Email: `aymanemaghouti@gmail.com`
+- Linkedin : <a href="https://www.linkedin.com/in/tejodhay-bonam-66b3661b0/" target="_blank">Tejodhay Bonam</a><br>
